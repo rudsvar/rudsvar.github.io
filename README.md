@@ -1,6 +1,6 @@
 # Projects
 
 * [Lambada](https://rudsvar.github.io/Lambada), a simple functional language.
-* [Maki](https://rudsvar.github.io/Lambada), a C/C++ header dependency generator.
-* [Rusty-Image](https://rudsvar.github.io/Lambada), for turning images into ASCII.
-* [Catnip](https://rudsvar.github.io/Lambada), for when cat is too boring.
+* [Maki](https://github.com/rudsvar/maki), a C/C++ header dependency generator.
+* [Rusty Image](https://github.com/rudsvar/rusty-image), for turning images into ASCII.
+* [Catnip](https://github.com/rudsvar/catnip), for when cat is too boring.
